@@ -7,6 +7,7 @@ const links = [
   { href: '/', label: 'TODO' },
   { href: '/help', label: '使い方' },
   { href: '/about', label: 'このアプリについて' },
+  { href: '/tips', label: 'コツ'}
 ]
 
 export default function Header() {
